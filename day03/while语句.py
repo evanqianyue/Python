@@ -3,15 +3,12 @@
 
 """
  @ Author     ：Evan
- @ Date       ：2018/10/27 15:32
+ @ Date       ：2018/10/28 8:06
  @ Version    : 1.0
  @ Description：
  @ Modified By：
 """
 
-"""
-这些是注释
-"""
-
-# 这个是单行注释
-print("hello123")
+str1 = "******Emma is a nice man*****"
+for i in str1:
+    print(i)

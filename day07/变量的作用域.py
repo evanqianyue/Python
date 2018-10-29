@@ -3,15 +3,14 @@
 
 """
  @ Author     ：Evan
- @ Date       ：2018/10/27 15:32
+ @ Date       ：2018/10/29 21:51
  @ Version    : 1.0
  @ Description：
  @ Modified By：
 """
 
-"""
-这些是注释
-"""
+# 局部作用域
+# 全局作用域
+# 内建作用域
 
-# 这个是单行注释
-print("hello123")
+

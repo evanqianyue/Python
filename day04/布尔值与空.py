@@ -3,15 +3,17 @@
 
 """
  @ Author     ：Evan
- @ Date       ：2018/10/27 15:32
+ @ Date       ：2018/10/27 20:20
  @ Version    : 1.0
  @ Description：
  @ Modified By：
 """
 
-"""
-这些是注释
-"""
+b1 = True
+b2 = False
+print(b1, b2)
 
-# 这个是单行注释
-print("hello123")
+# 空值是特殊的
+n = None
+print(n)
+

@@ -3,15 +3,15 @@
 
 """
  @ Author     ：Evan
- @ Date       ：2018/10/27 15:32
+ @ Date       ：2018/10/27 16:03
  @ Version    : 1.0
  @ Description：
  @ Modified By：
 """
 
-"""
-这些是注释
-"""
+import keyword
 
-# 这个是单行注释
-print("hello123")
+print(dir(keyword))
+print(keyword.kwlist)
+print(keyword.main)
+
