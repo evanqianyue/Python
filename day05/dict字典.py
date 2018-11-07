@@ -62,3 +62,12 @@ for i, v2 in enumerate(json):
 # list
 # 查找和插入的速度随着数据量的增多而减慢
 # 占用空间小，浪费内存多
+
+import operator
+dict1 = {'Name': 'Zara', 'Age': 7}
+dict2 = {'Name': 'Mahnaz', 'Age': 27}
+dict3 = {'Name': 'Abid', 'Age': 27}
+dict4 = {'Name': 'Zara', 'Age': 7}
+print("Return Value : %d" % operator.eq(dict1, dict2))
+print("Return Value : %d" % operator.eq(dict2, dict3))
+print("Return Value : %d" % operator.eq(dict1, dict4))

@@ -30,7 +30,7 @@ else：
 1、如果当try“语句t”执行出现错误，会匹配第一个错误码，如果匹配上就执行对应语句
 2、如果当try“语句t”执行出现错误，没有匹配的异常，错误将会被提交到上一层的try语句，或者到程序的最上层。
 3、如果当try“语句t”执行没有错误，执行else下的语句语句e（前提提交是有else：语句e）
-
+4、finally:语句f都会执行
 """
 try:
     print(3 / 0)
@@ -46,3 +46,18 @@ try:
     print(3 / 0)
 except (NameError, ZeroDivisionError):
     print("出现NameError或者ZeroDivisionError")
+
+# 错误其实是class(类)，所有错误都继承于BaseException
+try:
+    print(3 / 0)
+except BaseException as e:
+    print(e)
+
+try:
+    print(3 / 0)
+except NameError as e:
+    print(e)
+except ZeroDivisionError as e:
+    print(e)
+finally:
+    print("This is Finally!")

@@ -1,0 +1,33 @@
+# !/usr/bin/env python
+# -*- coding:utf-8 -*-
+
+"""
+ @ Author     ：Evan
+ @ Date       ：2018/10/31 15:59
+ @ Version    : 1.0
+ @ Description：
+ @ Modified By：
+"""
+
+
+class Site(object):
+    def __init__(self, name, url):
+        self.name = name  # public
+        self.__url = url  # private
+
+    def who(self):
+        print('name  : ', self.name)
+        print('url : ', self.__url)
+
+    def __foo(self):  # 私有方法
+        print('这是私有方法')
+
+    def foo(self):  # 公共方法
+        print('这是公共方法')
+        self.__foo()
+
+
+x = Site('菜鸟教程', 'www.runoob.com')
+x.who()  # 正常输出
+x.foo()  # 正常输出
+x.__foo()  # 报错
