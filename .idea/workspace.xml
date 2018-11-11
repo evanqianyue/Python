@@ -2,106 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9477df8-76f2-49b6-bdd1-7671b781ab54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day04/冒泡排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/ASSERT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/list-tuple-dict-set的文件操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/读写文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/os模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/窗体控制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/time-datatime-calender/calender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/time-datatime-calender/datatime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/time-datatime-calender/time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/time-datatime-calender/性能测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/栈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/递归调用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/遍历/栈模拟递归遍历（深度优先）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/遍历/递归遍历目录.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/遍历/队列模拟递归遍历（广度优先）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/队列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/__name__属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/from/M3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/from/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/标准库模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/自定义/M1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/自定义/M2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/自定义/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/使用类实例化对象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/单继承实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/对象的初始状态（构造函数）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/析构函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/类的私有方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/访问对象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/访问限制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/重写__repr__和__str__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/property/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/property/property.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/动态给实例添加属性/动态添加.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/多态/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/多态/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/多态/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/多态/mouse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/多态/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/多态/多态.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/多继承/child.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/多继承/father.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/多继承/mother.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/多继承/实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/对象属性和类属性/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/对象属性和类属性/对象属性与类属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/运算符重载/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/运算符重载/运算符重载.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/首发验证码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/高阶函数-filter/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/高阶函数-map与reduce/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/高阶函数-map与reduce/map和reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/高阶函数-sorted/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/1、排列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/2、组合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/3、排列组合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/4、正则.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/5、深入正则re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/伤敌一千自损八百的疯狂破解法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/ceshi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/requests爬取网页.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/urllib爬取网页.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/糗事百科.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/豆瓣get.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/元组存放1个元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/协程/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/协程/协程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/协程/协程原理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/协程/数据传输.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/协程/生产者消费者.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/多任务概念.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/拷贝文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/信号量控制线程数量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/凑够一定数量才能一起执行.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/定时执行线程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/生产者与消费者.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/线程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/线程调度.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/线程通信.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/线程锁解决数据混乱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/线程锁解决数据混乱2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/线程/线程间共享数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/进程/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/进程/全局变量在多个进程中不能共享.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/进程/启动一个线程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/进程/启动大量子进程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/进程/启动进程实现多任务.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/进程/多进程拷贝文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/进程/父子进程先后顺序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/进程/进程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/进程/进程间通信.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/dict字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/day05/dict字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/匿名参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/day06/匿名参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/异常处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/day07/异常处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/evansql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/修改数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/删除数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/插入数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/查询数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/EvanRedis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23/redistest.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,52 +20,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python$worker.coverage" NAME="worker Coverage Results" MODIFIED="1540971938993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
-    <SUITE FILE_PATH="coverage/Python$2.coverage" NAME="线程锁解决数据混乱2 Coverage Results" MODIFIED="1541556721477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20" />
-    <SUITE FILE_PATH="coverage/Python$while.coverage" NAME="while语句 Coverage Results" MODIFIED="1540685899600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
-    <SUITE FILE_PATH="coverage/Python$list.coverage" NAME="list（列表） Coverage Results" MODIFIED="1540728424705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$M1.coverage" NAME="M1 Coverage Results" MODIFIED="1540946426847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10/自定义" />
-    <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1541402699777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/PythonTest$print.coverage" NAME="print输出 Coverage Results" MODIFIED="1540626119388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
-    <SUITE FILE_PATH="coverage/Python$__1_.coverage" NAME="线程调度 (1) Coverage Results" MODIFIED="1541590906434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/线程" />
-    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="生产者消费者 Coverage Results" MODIFIED="1541592682278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/协程" />
+    <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1541835379507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22" />
     <SUITE FILE_PATH="coverage/Python$Number.coverage" NAME="数字类型（Number） Coverage Results" MODIFIED="1540640507284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/Python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1541072441924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16/高阶函数-map与reduce" />
-    <SUITE FILE_PATH="coverage/Python$post.coverage" NAME="豆瓣post Coverage Results" MODIFIED="1541483748030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
     <SUITE FILE_PATH="coverage/PythonTest$.coverage" NAME="注释 Coverage Results" MODIFIED="1540625651668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/Python$mapreduce__1_.coverage" NAME="map和reduce (1) Coverage Results" MODIFIED="1541072402969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16/高阶函数-map与reduce" />
     <SUITE FILE_PATH="coverage/Python$os.coverage" NAME="os模块 Coverage Results" MODIFIED="1540880061750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
     <SUITE FILE_PATH="coverage/Python$while_else.coverage" NAME="while-else Coverage Results" MODIFIED="1540734309604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$child.coverage" NAME="child Coverage Results" MODIFIED="1540973846315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12/多继承" />
     <SUITE FILE_PATH="coverage/Python$student.coverage" NAME="student Coverage Results" MODIFIED="1540972135155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
-    <SUITE FILE_PATH="coverage/Python$ASSERT.coverage" NAME="ASSERT Coverage Results" MODIFIED="1540864087536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
-    <SUITE FILE_PATH="coverage/Python$self.coverage" NAME="self Coverage Results" MODIFIED="1540962184677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
     <SUITE FILE_PATH="coverage/Python$mapreduce.coverage" NAME="map和reduce Coverage Results" MODIFIED="1541057770558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16/map与reduce" />
     <SUITE FILE_PATH="coverage/Python$try___finally.coverage" NAME="try...finally Coverage Results" MODIFIED="1541400758198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
     <SUITE FILE_PATH="coverage/Python$3.coverage" NAME="3、排列组合 Coverage Results" MODIFIED="1541075615468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
-    <SUITE FILE_PATH="coverage/Python$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1541488111014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
     <SUITE FILE_PATH="coverage/Python$M2__1_.coverage" NAME="M2 (1) Coverage Results" MODIFIED="1540946652040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10/自定义" />
     <SUITE FILE_PATH="coverage/Python$String.coverage" NAME="String（字符串） Coverage Results" MODIFIED="1540793607424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/Python$time.coverage" NAME="time Coverage Results" MODIFIED="1540911646046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/time-datatime-calender" />
     <SUITE FILE_PATH="coverage/Python$datatime.coverage" NAME="datatime Coverage Results" MODIFIED="1540943053526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/time-datatime-calender" />
     <SUITE FILE_PATH="coverage/Python$M2.coverage" NAME="M2 Coverage Results" MODIFIED="1540944551539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10/使用自定义模块" />
     <SUITE FILE_PATH="coverage/Python$father.coverage" NAME="father Coverage Results" MODIFIED="1540973928383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12/多继承" />
-    <SUITE FILE_PATH="coverage/Python$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1540787066955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
     <SUITE FILE_PATH="coverage/Python$input.coverage" NAME="input输入 Coverage Results" MODIFIED="1540627076016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/PythonTest$01.coverage" NAME="01 Coverage Results" MODIFIED="1540618198924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001" />
     <SUITE FILE_PATH="coverage/Python$set.coverage" NAME="set（集合） Coverage Results" MODIFIED="1540868760711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
-    <SUITE FILE_PATH="coverage/Python$property.coverage" NAME="property Coverage Results" MODIFIED="1541033658224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12/property" />
     <SUITE FILE_PATH="coverage/Python$1.coverage" NAME="元组存放1个元素 Coverage Results" MODIFIED="1541494601737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$__repr____str__.coverage" NAME="重写__repr__和__str__ Coverage Results" MODIFIED="1540962846606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
     <SUITE FILE_PATH="coverage/Python$requests.coverage" NAME="requests爬取网页 Coverage Results" MODIFIED="1541409399340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/Python$list_tuple_dict_set.coverage" NAME="list-tuple-dict-set的文件操作 Coverage Results" MODIFIED="1540870545188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
     <SUITE FILE_PATH="coverage/Python$calender.coverage" NAME="calender Coverage Results" MODIFIED="1540943518613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/time-datatime-calender" />
+    <SUITE FILE_PATH="coverage/Python$M3.coverage" NAME="M3 Coverage Results" MODIFIED="1540946034625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10/from" />
+    <SUITE FILE_PATH="coverage/Python$urllib.coverage" NAME="urllib爬取网页 Coverage Results" MODIFIED="1541404016411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/Python$redistest.coverage" NAME="redistest Coverage Results" MODIFIED="1541844801118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day23" />
+    <SUITE FILE_PATH="coverage/Python$dict.coverage" NAME="dict字典 Coverage Results" MODIFIED="1540869279242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/Python$worker.coverage" NAME="worker Coverage Results" MODIFIED="1540971938993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/Python$2.coverage" NAME="2 Coverage Results" MODIFIED="1541833223281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22" />
+    <SUITE FILE_PATH="coverage/Python$while.coverage" NAME="while语句 Coverage Results" MODIFIED="1540685899600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/Python$list.coverage" NAME="list（列表） Coverage Results" MODIFIED="1540728424705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
+    <SUITE FILE_PATH="coverage/Python$M1.coverage" NAME="M1 Coverage Results" MODIFIED="1540946426847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10/自定义" />
+    <SUITE FILE_PATH="coverage/PythonTest$print.coverage" NAME="print输出 Coverage Results" MODIFIED="1540626119388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/Python$__1_.coverage" NAME="线程调度 (1) Coverage Results" MODIFIED="1541590906434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/线程" />
+    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="封装 Coverage Results" MODIFIED="1541835268640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22" />
+    <SUITE FILE_PATH="coverage/Python$post.coverage" NAME="豆瓣post Coverage Results" MODIFIED="1541483748030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/Python$child.coverage" NAME="child Coverage Results" MODIFIED="1540973846315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12/多继承" />
+    <SUITE FILE_PATH="coverage/Python$ASSERT.coverage" NAME="ASSERT Coverage Results" MODIFIED="1540864087536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
+    <SUITE FILE_PATH="coverage/Python$self.coverage" NAME="self Coverage Results" MODIFIED="1540962184677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/Python$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1541488111014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/Python$evansql.coverage" NAME="evansql Coverage Results" MODIFIED="1541835399063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22" />
+    <SUITE FILE_PATH="coverage/Python$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1540787066955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
+    <SUITE FILE_PATH="coverage/Python$property.coverage" NAME="property Coverage Results" MODIFIED="1541033658224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12/property" />
+    <SUITE FILE_PATH="coverage/Python$__repr____str__.coverage" NAME="重写__repr__和__str__ Coverage Results" MODIFIED="1540962846606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/Python$list_tuple_dict_set.coverage" NAME="list-tuple-dict-set的文件操作 Coverage Results" MODIFIED="1540870545188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
+    <SUITE FILE_PATH="coverage/Python$EvanRedis.coverage" NAME="EvanRedis Coverage Results" MODIFIED="1541845189382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day23" />
     <SUITE FILE_PATH="coverage/Python$4.coverage" NAME="4、正则 Coverage Results" MODIFIED="1541132541062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
     <SUITE FILE_PATH="coverage/Python$5re.coverage" NAME="5、深入正则re Coverage Results" MODIFIED="1541136495812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
     <SUITE FILE_PATH="coverage/Python$for.coverage" NAME="for Coverage Results" MODIFIED="1540784543163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$M3.coverage" NAME="M3 Coverage Results" MODIFIED="1540946034625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10/from" />
-    <SUITE FILE_PATH="coverage/Python$urllib.coverage" NAME="urllib爬取网页 Coverage Results" MODIFIED="1541404016411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
-    <SUITE FILE_PATH="coverage/Python$dict.coverage" NAME="dict字典 Coverage Results" MODIFIED="1540869279242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="87724810">
@@ -192,69 +104,83 @@
     <session id="96290822">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="235" />
+          <entry key="py" value="262" />
           <entry key="pyi" value="4" />
-          <entry key="txt" value="2" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="235" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="262" />
           <entry key="PythonStub" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="98" />
-          <entry key="py" value="37262" />
+          <entry key="dummy" value="127" />
+          <entry key="py" value="39644" />
+          <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="98" />
-          <entry key="Python" value="37262" />
+          <entry key="PLAIN_TEXT" value="160" />
+          <entry key="Python" value="39644" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day20/协程/生产者消费者.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day23/redistest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="252">
+              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day23/EvanRedis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding>
-                <marker date="1541592682243" expanded="true" signature="185:190" ph="..." />
-                <marker date="1541592682243" expanded="true" signature="185:331" ph="..." />
-                <marker date="1541592682243" expanded="true" signature="346:351" ph="..." />
+                <marker date="1541845187974" expanded="true" signature="191:196" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day20/协程/数据传输.py">
+        <entry file="file://$PROJECT_DIR$/day22/evansql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="139">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1541835399019" expanded="true" signature="197:202" ph="..." />
+                <marker date="1541835399019" expanded="true" signature="1160:1198" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -301,19 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day12/多态/多态.py" />
-        <option value="$PROJECT_DIR$/day12/对象属性和类属性/对象属性与类属性.py" />
-        <option value="$PROJECT_DIR$/day12/动态给实例添加属性/动态添加.py" />
-        <option value="$PROJECT_DIR$/day12/property/property.py" />
-        <option value="$PROJECT_DIR$/day12/运算符重载/运算符重载.py" />
-        <option value="$PROJECT_DIR$/day12/首发验证码.py" />
-        <option value="$PROJECT_DIR$/day16/map与reduce/map和reduce.py" />
-        <option value="$PROJECT_DIR$/day16/高阶函数-map与reduce/map和reduce.py" />
-        <option value="$PROJECT_DIR$/day16/高阶函数-map与reduce/__init__.py" />
-        <option value="$PROJECT_DIR$/day17/1、排列.py" />
-        <option value="$PROJECT_DIR$/day17/2、组合.py" />
-        <option value="$PROJECT_DIR$/day17/3、排列组合.py" />
-        <option value="$PROJECT_DIR$/day17/伤敌一千自损八百的疯狂破解法.py" />
         <option value="$PROJECT_DIR$/day17/4、正则-手机.py" />
         <option value="$PROJECT_DIR$/day17/4、正则.py" />
         <option value="$PROJECT_DIR$/day17/5、深入正则re.py" />
@@ -352,6 +265,19 @@
         <option value="$PROJECT_DIR$/day20/协程/协程原理.py" />
         <option value="$PROJECT_DIR$/day20/协程/数据传输.py" />
         <option value="$PROJECT_DIR$/day20/协程/生产者消费者.py" />
+        <option value="$PROJECT_DIR$/day23/README.txt" />
+        <option value="$PROJECT_DIR$/day22/2.py" />
+        <option value="$PROJECT_DIR$/day22/链接数据库.py" />
+        <option value="$PROJECT_DIR$/day22/修改数据.py" />
+        <option value="$PROJECT_DIR$/day22/删除数据.py" />
+        <option value="$PROJECT_DIR$/day22/插入数据.py" />
+        <option value="$PROJECT_DIR$/day22/查询数据.py" />
+        <option value="$PROJECT_DIR$/day22/封装.py" />
+        <option value="$PROJECT_DIR$/day22/test.py" />
+        <option value="$PROJECT_DIR$/day22/evansql.py" />
+        <option value="$PROJECT_DIR$/day23/redis.py" />
+        <option value="$PROJECT_DIR$/day23/redistest.py" />
+        <option value="$PROJECT_DIR$/day23/EvanRedis.py" />
       </list>
     </option>
   </component>
@@ -372,6 +298,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -382,26 +310,23 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="day20" type="462c0819:PsiDirectoryNode" />
+              <item name="day22" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="day20" type="462c0819:PsiDirectoryNode" />
-              <item name="协程" type="462c0819:PsiDirectoryNode" />
+              <item name="day23" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541592759047" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541845192626" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -409,21 +334,23 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\QianYue\IdeaProjects\Python\day22" />
+      <recent name="C:\Users\QianYue\IdeaProjects\Python\day20" />
+      <recent name="C:\Users\QianYue\IdeaProjects\Python\day18" />
+      <recent name="C:\Users\QianYue\IdeaProjects\Python\day17" />
+      <recent name="C:\Users\QianYue\IdeaProjects\Python\day10\使用自定义模块" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\QianYue\IdeaProjects\Python\day20\协程" />
       <recent name="C:\Users\QianYue\IdeaProjects\Python\day20\线程" />
       <recent name="C:\Users\QianYue\IdeaProjects\Python\day20\进程" />
       <recent name="C:\Users\QianYue\IdeaProjects\Python\day20" />
       <recent name="C:\Users\QianYue\IdeaProjects\Python\day12\多继承" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\QianYue\IdeaProjects\Python\day20" />
-      <recent name="C:\Users\QianYue\IdeaProjects\Python\day18" />
-      <recent name="C:\Users\QianYue\IdeaProjects\Python\day17" />
-      <recent name="C:\Users\QianYue\IdeaProjects\Python\day10\使用自定义模块" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -438,21 +365,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.生产者消费者">
-    <configuration name="线程调度 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day20" />
+  <component name="RunManager" selected="Python.EvanRedis">
+    <configuration name="封装" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day22" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20/线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/线程/线程调度.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\QianYue\IdeaProjects\Python\day22\evansql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -461,7 +388,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="协程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EvanRedis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day23" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day23/EvanRedis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多进程实现文件拷贝" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="day20" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -469,12 +418,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20/协程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/协程/协程.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\QianYue\IdeaProjects\Python\day20\拷贝文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进程间通信" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/进程间通信.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -505,20 +476,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="数据传输" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day20" />
+    <configuration name="运算符与表达式续" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day03" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20/协程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/协程/数据传输.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/运算符与表达式续.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -549,6 +520,94 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="运算符与表达式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/运算符与表达式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="性能测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day09" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09/time-datatime-calender" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day09/time-datatime-calender/性能测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="栈遍历" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day09" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09/遍历" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\QianYue\IdeaProjects\Python\day09\遍历\栈模拟递归遍历（深度优先）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="数据传输" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20/协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/协程/数据传输.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="偏函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="day07" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -563,6 +622,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/偏函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="插入数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day22" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/插入数据.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="父子进程先后顺序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/父子进程先后顺序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -659,28 +762,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="父子进程先后顺序" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day20" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/父子进程先后顺序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="通用装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="day07" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -695,6 +776,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/通用装饰器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="查询数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day22" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/查询数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -739,6 +842,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/布尔值与空.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多进程拷贝文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/多进程拷贝文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -813,20 +938,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="多进程实现文件拷贝" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day20" />
+    <configuration name="evansql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day22" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\QianYue\IdeaProjects\Python\day20\拷贝文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/evansql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -835,20 +960,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="多进程拷贝文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day20" />
+    <configuration name="redistest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day23" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/多进程拷贝文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day23/redistest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -857,108 +982,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="进程间通信" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day20" />
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day22" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day20/进程间通信.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="运算符与表达式续" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day03" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/运算符与表达式续.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="运算符与表达式" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day02" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/运算符与表达式.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="性能测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day09" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09/time-datatime-calender" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day09/time-datatime-calender/性能测试.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="栈遍历" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day09" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09/遍历" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\QianYue\IdeaProjects\Python\day09\遍历\栈模拟递归遍历（深度优先）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day22/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -968,19 +1005,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.协程" />
-      <item itemvalue="Python.线程调度 (1)" />
-      <item itemvalue="Python.协程原理" />
-      <item itemvalue="Python.数据传输" />
-      <item itemvalue="Python.生产者消费者" />
+      <item itemvalue="Python.封装" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.evansql" />
+      <item itemvalue="Python.redistest" />
+      <item itemvalue="Python.EvanRedis" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.生产者消费者" />
-        <item itemvalue="Python.数据传输" />
-        <item itemvalue="Python.协程原理" />
-        <item itemvalue="Python.线程调度 (1)" />
-        <item itemvalue="Python.协程" />
+        <item itemvalue="Python.EvanRedis" />
+        <item itemvalue="Python.redistest" />
+        <item itemvalue="Python.evansql" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.封装" />
       </list>
     </recent_temporary>
   </component>
@@ -1009,16 +1046,21 @@
       <workItem from="1541478870682" duration="15176000" />
       <workItem from="1541510931340" duration="6630000" />
       <workItem from="1541552032283" duration="18221000" />
+      <workItem from="1541597419902" duration="836000" />
+      <workItem from="1541679305825" duration="1291000" />
+      <workItem from="1541810499824" duration="601000" />
+      <workItem from="1541825033370" duration="5277000" />
+      <workItem from="1541839363233" duration="2589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187400000" />
+    <option name="totallyTimeSpent" value="197994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="777" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48913044" visible="true" weight="0.17784964" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48913044" visible="true" weight="0.24413905" />
       <window_info id="Structure" order="1" sideWeight="0.51086956" side_tool="true" weight="0.17784964" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1055,104 +1097,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day12/对象属性和类属性/对象属性与类属性.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day12/动态给实例添加属性/动态添加.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day12/property/property.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day12/多继承/child.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day12/多态/animal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day12/首发验证码.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day11/重写__repr__和__str__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="41" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day12/运算符重载/运算符重载.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16/高阶函数-map与reduce/map和reduce.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day16/高阶函数-map与reduce/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17/1、排列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17/2、组合.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="18" selection-start-line="11" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17/3、排列组合.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day17/伤敌一千自损八百的疯狂破解法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3/typing.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="746">
@@ -1238,13 +1182,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day20/进程/多进程拷贝文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day20/线程/线程.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -1263,38 +1200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <element signature="e#159#175#0" expanded="true" />
-            <marker date="1541567760284" expanded="true" signature="200:456" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/进程/启动进程实现多任务.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="30" column="24" lean-forward="true" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/进程/进程间通信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#159#201#0" expanded="true" />
-            <marker date="1541514995889" expanded="true" signature="238:275" ph="..." />
-            <marker date="1541514995889" expanded="true" signature="238:390" ph="..." />
-            <marker date="1541514995889" expanded="true" signature="403:408" ph="..." />
-            <marker date="1541514995889" expanded="true" signature="403:556" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/进程/进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -1302,26 +1207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="e#159#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/进程/启动大量子进程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" selection-start-line="16" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="e#159#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/线程/线程锁解决数据混乱.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
@@ -1329,10 +1214,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="654">
           <caret line="58" selection-start-line="58" selection-end-line="59" />
-          <folding>
-            <element signature="e#193#209#0" expanded="true" />
-            <marker date="1541556869395" expanded="true" signature="441:625" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1343,24 +1224,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day20/线程/信号量控制线程数量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="e#193#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day20/拷贝文件.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="e#159#191#0" expanded="true" />
-            <marker date="1541512939416" expanded="true" signature="369:502" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1375,9 +1242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#193#209#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1385,22 +1249,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <element signature="e#159#194#0" expanded="true" />
-            <marker date="1541496720350" expanded="true" signature="241:242" ph="..." />
-            <marker date="1541496720350" expanded="true" signature="241:311" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day20/进程/父子进程先后顺序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <element signature="e#219#254#0" expanded="true" />
-            <marker date="1541495987461" expanded="true" signature="351:352" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1408,12 +1256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="e#159#182#0" expanded="true" />
-            <marker date="1541569461456" expanded="true" signature="230:386" ph="..." />
-            <marker date="1541569461456" expanded="true" signature="412:413" ph="..." />
-            <marker date="1541569461456" expanded="true" signature="412:417" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1421,11 +1263,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-          <folding>
-            <element signature="e#159#175#0" expanded="true" />
-            <marker date="1541590910157" expanded="true" signature="260:268" ph="..." />
-            <marker date="1541590910157" expanded="true" signature="467:623" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1433,10 +1270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding>
-            <marker date="1541591048211" expanded="true" signature="448:453" ph="..." />
-            <marker date="1541591048211" expanded="true" signature="572:577" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1444,27 +1277,175 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
           <caret line="17" selection-start-line="17" selection-end-line="23" selection-end-column="12" />
-          <folding>
-            <marker date="1541591257466" expanded="true" signature="208:213" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/进程/进程间通信.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/进程/进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/进程/父子进程先后顺序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/进程/多进程拷贝文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/进程/启动进程实现多任务.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/进程/启动大量子进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day20/协程/数据传输.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="432">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/线程/线程锁解决数据混乱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day20/线程/信号量控制线程数量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day20/协程/生产者消费者.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="127">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day23/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/栈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/递归调用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/更新数据.py" />
+    <entry file="file://$PROJECT_DIR$/day22/插入数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/String（字符串）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4824" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/查询数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/删除数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/修改数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <marker date="1541592682243" expanded="true" signature="185:190" ph="..." />
-            <marker date="1541592682243" expanded="true" signature="185:331" ph="..." />
-            <marker date="1541592682243" expanded="true" signature="346:351" ph="..." />
+            <element signature="e#160#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day23/redistest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day22/evansql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1541835399019" expanded="true" signature="197:202" ph="..." />
+            <marker date="1541835399019" expanded="true" signature="1160:1198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day23/EvanRedis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <marker date="1541845187974" expanded="true" signature="191:196" ph="..." />
           </folding>
         </state>
       </provider>
